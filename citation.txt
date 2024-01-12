@@ -1,0 +1,8 @@
+@article{REPO263,
+    author = {Kerbl, Bernhard and Kopanas, Georgios and Leimk{\"u}hler, Thomas and Drettakis, George},
+    journal = "ACM Transactions on Graphics",
+    number = "4",
+    title = "{3D Gaussian Splatting for Real-Time Radiance Field Rendering}",
+    volume = "42",
+    year = "2023"
+}
